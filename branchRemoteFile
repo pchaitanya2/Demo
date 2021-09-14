@@ -1,4 +1,5 @@
 branchRemoteFile
+
 FileModifiedOrigi
 Modified local
 
@@ -7,4 +8,8 @@ modified remote
 
 FileModifiedRemot
 
+
+
+FileModifiedOrigin
+FileModifiedRemote
 
